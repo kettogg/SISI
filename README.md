@@ -1,7 +1,7 @@
 <div align="center">
   <h2 align="center">SISI — Say It, Sign It!</h2>
   <a href="https://github.com/kettogg/signbot">
-    <img src=".github/sisi_gh.png" alt="Logo">
+    <img src=".github/sisi_alt_gh.png" alt="Logo">
   </a>
 </div>
  

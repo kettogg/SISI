@@ -11,3 +11,6 @@ SISI is simply a web-based platform designed to bridge communication gaps by con
 **_Try it out now at <a href="https://sisi.ketto.space">sisi.ketto.space</a> :)_**
 
 ## Demo
+
+https://github.com/user-attachments/assets/b0bfa3c5-1202-4086-8917-5a76e9e7d141
+
